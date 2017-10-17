@@ -7,11 +7,11 @@ From there, insert the `send_slack_message` method saved in this repo. Then call
 
 ```
 send_slack_message(
-'[slack-url]',
+'enter-slack-webhook.com',
 '#general,
 'BotName',
 'Message Content',
-[url_for_image]
+'enter-url-for-image',
 )
 ```
 
