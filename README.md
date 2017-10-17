@@ -15,6 +15,8 @@ send_slack_message(
 )
 ```
 
-After that, you should be able to see the message appear in the appropriate channel.
+The system command allows you to utilize bash to send out the request.
+
+After those steps, you should be able to see the message appear in the appropriate channel. If you have any difficulties, please contact me. You might also want to `require json` within IRB if there are troubles with the payload.
 
 Feel free to type `?greetings` once you're logged into Slack.
