@@ -3,7 +3,7 @@ A simple Ruby method to set up a Slack incoming webhook.
 
 Once you've set up Ruby and RVM, log into IRB.
 
-From there, insert the `send_slack_message method`. Then call the method and add the arguments. For example,
+From there, insert the `send_slack_message` method saved in this repo. Then call the method and add the arguments. For example,
 
 ```
 send_slack_message(
@@ -17,4 +17,4 @@ send_slack_message(
 
 After that, you should be able to see the message appear in the appropriate channel.
 
-Feel free to type ?greetings once you're logged into Slack.
+Feel free to type `?greetings` once you're logged into Slack.
